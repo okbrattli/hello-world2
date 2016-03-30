@@ -1,0 +1,64 @@
+[92m.
+[92m+--- [0mhello-world2
+[92m|   [92m+--- [0m.git
+[92m|   [92m|   [92m+ [90mCOMMIT_EDITMSG
+[92m|   [92m|   [92m+ [90mconfig
+[92m|   [92m|   [92m+ [90mdescription
+[92m|   [92m|   [92m+ [90mFETCH_HEAD
+[92m|   [92m|   [92m+ [90mHEAD
+[92m|   [92m|   [92m+--- [0mhooks
+[92m|   [92m|   [92m|   [92m+ [90mapplypatch-msg.sample
+[92m|   [92m|   [92m|   [92m+ [90mcommit-msg.sample
+[92m|   [92m|   [92m|   [92m+ [90mpost-update.sample
+[92m|   [92m|   [92m|   [92m+ [90mpre-applypatch.sample
+[92m|   [92m|   [92m|   [92m+ [90mpre-commit.sample
+[92m|   [92m|   [92m|   [92m+ [90mpre-push.sample
+[92m|   [92m|   [92m|   [92m+ [90mpre-rebase.sample
+[92m|   [92m|   [92m|   [92m+ [90mprepare-commit-msg.sample
+[92m|   [92m|   [92m|   [92m+ [90mupdate.sample
+[92m|   [92m|   [92m+ [90mindex
+[92m|   [92m|   [92m+--- [0minfo
+[92m|   [92m|   [92m|   [92m+ [90mexclude
+[92m|   [92m|   [92m+--- [0mlogs
+[92m|   [92m|   [92m|   [92m+ [90mHEAD
+[92m|   [92m|   [92m|   [92m+--- [0mrefs
+[92m|   [92m|   [92m|   [92m|   [92m+--- [0mheads
+[92m|   [92m|   [92m|   [92m|   [92m|   [92m+ [90mHellobranch
+[92m|   [92m|   [92m|   [92m|   [92m|   [92m+ [90mmaster
+[92m|   [92m|   [92m|   [92m|   [92m+--- [0mremotes
+[92m|   [92m|   [92m|   [92m|   [92m|   [92m+--- [0morigin
+[92m|   [92m|   [92m|   [92m|   [92m|   [92m|   [92m+ [90mHEAD
+[92m|   [92m|   [92m+--- [0mobjects
+[92m|   [92m|   [92m|   [92m+--- [0m02
+[92m|   [92m|   [92m|   [92m|   [92m+ [90mbd6cebdf258953b56ffed6ea7250ddffe34bc4
+[92m|   [92m|   [92m|   [92m+--- [0m0c
+[92m|   [92m|   [92m|   [92m|   [92m+ [90m9ad6e4740b61d3ad658319c6aa7394ec5bc3c9
+[92m|   [92m|   [92m|   [92m+--- [0m27
+[92m|   [92m|   [92m|   [92m|   [92m+ [90md7d603b04b1a53839dde4481234fb93e1ca472
+[92m|   [92m|   [92m|   [92m+--- [0m29
+[92m|   [92m|   [92m|   [92m|   [92m+ [90mcdee5ad1e29846eba2f88c56b6d45d7a385256
+[92m|   [92m|   [92m|   [92m+--- [0m33
+[92m|   [92m|   [92m|   [92m|   [92m+ [90m3f4fe28cc2669da74f084206c15d0b706d7ed4
+[92m|   [92m|   [92m|   [92m+--- [0m35
+[92m|   [92m|   [92m|   [92m|   [92m+ [90m24977e0603d9d0e9ebb6863d72009c2bad128e
+[92m|   [92m|   [92m|   [92m+--- [0m4d
+[92m|   [92m|   [92m|   [92m|   [92m+ [90m9601fcd70542bdeb478c8ddb570e35224bcd7a
+[92m|   [92m|   [92m|   [92m+--- [0md3
+[92m|   [92m|   [92m|   [92m|   [92m+ [90mae39077e23a9e8606cbc438a84335d7e6d46f8
+[92m|   [92m|   [92m|   [92m+--- [0md6
+[92m|   [92m|   [92m|   [92m|   [92m+ [90m9f9c8aa78b801a18ef73fa81d797a1ef102c0d
+[92m|   [92m|   [92m|   [92m+--- [0minfo
+[92m|   [92m|   [92m|   [92m+--- [0mpack
+[92m|   [92m|   [92m+ [90mpacked-refs
+[92m|   [92m|   [92m+--- [0mrefs
+[92m|   [92m|   [92m|   [92m+--- [0mheads
+[92m|   [92m|   [92m|   [92m|   [92m+ [90mHellobranch
+[92m|   [92m|   [92m|   [92m|   [92m+ [90mmaster
+[92m|   [92m|   [92m|   [92m+--- [0mremotes
+[92m|   [92m|   [92m|   [92m|   [92m+--- [0morigin
+[92m|   [92m|   [92m|   [92m|   [92m|   [92m+ [90mHEAD
+[92m|   [92m|   [92m|   [92m+--- [0mtags
+[92m|   [92m+ [90mREADME.md
+[92m|   [92m+ [90mREADME.md~
+[92m|   [92m+ [90mTreeDump
+[0m
